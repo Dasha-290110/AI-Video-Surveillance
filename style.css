@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    height: 800px;
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin:0px;
+}
+
+button,#no_of_obj,#status{
+    font-size: 20px;
+    
+}
+
+.copyright_footer{
+bottom: 0px;
+position: fixed;
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255) ;
+line-height: 2;
+font-size: 17px;
+width: 100%;
+text-align: center;
+z-index:10;
+}
+
+canvas{
+    border:5px solid rgb(255, 255, 255);
+     border-radius: 10px;
+     box-shadow: 5px 5px 5px white;
+     margin-top: 100px;
+}
